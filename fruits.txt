@@ -3,3 +3,5 @@ berries
 cherries
 watermelon
 lime
+mango
+orange
