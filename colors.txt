@@ -6,3 +6,4 @@ yellow
 white
 black
 grey
+purple
