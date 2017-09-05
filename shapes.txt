@@ -1,2 +1,4 @@
 rectangle
 oval
+circle
+hexagon
